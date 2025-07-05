@@ -73,7 +73,7 @@ Each character is also labeled with a category (`Cartoon` or `Modern`).
 
 ## Future Work
 
-* Add 10,000+ character profiles
+* Add 1000+ character profiles
 * Include historical and fictional categories
 * Introduce sentiment-based open-text input
 * Add charts and visual insights
